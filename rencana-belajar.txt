@@ -1,0 +1,4 @@
+Rencana konten:
+
+- Javascript
+- HTML & CSS
