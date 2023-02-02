@@ -3,5 +3,6 @@ Rencana konten:
 - Javascript
   * Basic
   * ES6
-  *
+  * Library JS
+- Struktur data dasar
 - HTML & CSS
