@@ -4,5 +4,9 @@ Rencana konten:
   * Basic
   * ES6
   * Library JS
-- Struktur data dasar
+    ^ Angular
+    ^ React
+- PHP
+  * PHP Framework
+    ^ Laravel
 - HTML & CSS
